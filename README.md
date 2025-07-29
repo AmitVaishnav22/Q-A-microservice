@@ -15,7 +15,7 @@ A lightweight backend service that allows users to submit questions and receive 
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer       | Tool                   |
 |-------------|------------------------|
@@ -28,7 +28,7 @@ A lightweight backend service that allows users to submit questions and receive 
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo
 
