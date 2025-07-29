@@ -64,7 +64,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📬 API Endpoints
+## API Endpoints
 
 ### `POST /questions/documents/{doc_id}/question`
 Submit a question
